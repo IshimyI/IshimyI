@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank">Ivan Borisenko</a>!</h1>
 <div id="socials" align="center">
- <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/">
+<!--  <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/">
   <img src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/>
- </a>
- <a href="https://twitter.com/Brsnk_Dmtr">
+ </a> -->
+<!--  <a href="https://twitter.com/Brsnk_Dmtr">
   <img src="https://img.shields.io/badge/Twitter-53B5CA?style=for-the-badge&logo=twitter&logoColor=355981" alt="Twitter"/>
- </a>
- <a href="https://t.me/borisenko_dmitry">
+ </a> -->
+ <a href="https://t.me/IshimyI">
   <img src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=355981" alt="Telegram"/>
  </a>
 </div>
