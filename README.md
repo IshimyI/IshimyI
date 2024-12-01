@@ -79,6 +79,7 @@
   <a href="https://github.com/IshimyI">
   <img alt="coding" height="30" src="https://img.shields.io/badge/GITHUB-355981?style=for-the-badge&logo=github&logoColor=53B5CA">
   </a>
+  <p></p>
   <a href="https://gitlab.com/IshimyI">
   <img alt="coding" height="30" src="https://img.shields.io/badge/GITLAB-355981?style=for-the-badge&logo=gitlab&logoColor=53B5CA">
   </a>
