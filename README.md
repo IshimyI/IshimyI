@@ -25,7 +25,7 @@
 <strong style='font-size: 32px'>📫 Offers:</strong> <br>
 
 <img alt="coding" height="30" src="https://img.shields.io/badge/Gmail-355981?style=for-the-badge&logo=gmail&logoColor=53B5CA">
-<a href="/" target="_blank">dmitryborisenko.msk@gmail.com</a>
+<a href="/" target="_blank">shimy92@mail.ru </a>
 
 ## 👤 Find me here:
 
