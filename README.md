@@ -33,7 +33,7 @@
 <br>
 <a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Facebook-53B5CA?style=for-the-badge&logo=facebook&logoColor=355981"></a>
 <br>
-<a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Codewars-53B5CA?style=for-the-badge&logo=Codewars&logoColor=355981"></a>
+<a href="https://www.codewars.com/users/IshimyI" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Codewars-53B5CA?style=for-the-badge&logo=Codewars&logoColor=355981"></a>
 <a href="https://www.codewars.com/users/IshimyI" target="blank"><img height=30 alt="codewars" src="https://www.codewars.com/users/IshimyI/badges/large"></a>
 
 <br>
