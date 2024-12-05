@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Twitter-53B5CA?style=for-the-badge&logo=twitter&logoColor=355981" alt="Twitter"/>
  </a> -->
  <a href="https://t.me/IshimyI">
-  <img src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=355981" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=10000" alt="Telegram"/>
  </a>
 </div>
 <br>
