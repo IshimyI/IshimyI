@@ -12,7 +12,7 @@
 </div>
 <br>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif"> 
+<img align="right" alt="coding" width="400" src="[https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif](https://i.pinimg.com/originals/21/d7/99/21d799e3af4303646c63a92f6a32270f.gif)"> 
  
 <strong><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>About me:</strong>
 <br>
