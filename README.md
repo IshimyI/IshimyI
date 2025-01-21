@@ -12,7 +12,7 @@
 </div>
 <br>
 
-<img align="right" alt="coding" width="400" src="[https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif](https://i.pinimg.com/originals/21/d7/99/21d799e3af4303646c63a92f6a32270f.gif)"> 
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/74e91e65-548a-440c-a1f3-4e297e503272"> 
  
 <strong><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>About me:</strong>
 <br>
@@ -24,7 +24,7 @@
 <br>
 <strong style='font-size: 32px'>📫 Offers:</strong> <br>
 
-<img alt="coding" height="30" src="https://img.shields.io/badge/Gmail-355981?style=for-the-badge&logo=gmail&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://assets.pinterest.com/ext/embed.html?id=68117013107299901">
 <a href="/" target="_blank">shimy92@mail.ru </a>
 
 ## 👤 Find me here:
