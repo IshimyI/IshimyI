@@ -16,10 +16,13 @@
  
 <strong><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>About me:</strong>
 <br>
+
+<!--
+
 -  Fullstack developer from Moscow, Russia who is deeply passionate about creating interactive and appealing web interfaces.
 -  My love for coding and design enables me to craft amazing user interfaces that captivate the eye and deliver a seamless user experience.
 -  My drive for perfection motivates me to explore the latest technologies and trends in web development, keeping me up to date with the most recent innovations.
--  I think creatively and possess the ability to find elegant solutions to complex problems.
+-  I think creatively and possess the ability to find elegant solutions to complex problems. -->
 
 <br>
 <strong style='font-size: 32px'>📫 Offers:</strong> <br>
@@ -37,6 +40,8 @@
 <a href="https://www.codewars.com/users/IshimyI" target="blank"><img height=30 alt="codewars" src="https://www.codewars.com/users/IshimyI/badges/large"></a>
 
 <br>
+
+<!--
 
 ## ⚙️ Technology Stack:
 
@@ -74,6 +79,8 @@
   <img alt="coding" height="30" src="https://img.shields.io/badge/Figma-53B5CA?style=for-the-badge&logo=figma&logoColor=355981">
   <img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-53B5CA?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=355981">
   <br>
+-->
+  
   <h3>💻 Other</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA">
   <a href="https://github.com/IshimyI">
@@ -84,3 +91,4 @@
   <img alt="coding" height="30" src="https://img.shields.io/badge/GITLAB-355981?style=for-the-badge&logo=gitlab&logoColor=53B5CA">
   </a>
   <br>
+
